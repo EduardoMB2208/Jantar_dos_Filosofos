@@ -32,3 +32,5 @@ void *philosopher(void *arg) {
     }
     return NULL;
 }
+
+//ainda precisar inicializar as threads e mutexes no main.
